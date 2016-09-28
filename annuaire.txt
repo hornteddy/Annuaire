@@ -20,20 +20,20 @@ Pages:
 	-Ajouter contact
 	-Modifier contact
 	-Supprimer contact
-	-Bonus: gestion login
+	-Bonus: gestion login (envoyer hash -> ajouter sel -> rehash)
 	
 Java:
 	-Gestion du XML
 		*Lire l'annuaire
 		*Sauvegarder l'annuaire
-	-Recherche
-		*recherche globale
-		*recherche par champs
-	-Objets métiers:
-		*Contacts->Personne
-				 ->Entreprise
-		*Annuaire
+	-Recherche{FAIT, A TESTER}
+		*recherche globale{FAIT, A TESTER}
+		*recherche par champs{FAIT, A TESTER}
+	-Objets métiers:{FAIT, A TESTER}
+		*Contacts->Personne{FAIT, A TESTER}
+				 ->Entreprise{FAIT, A TESTER}
+		*Annuaire{FAIT, A TESTER}
 	-Affichage contact
 	-Ajouter contact
-	-Mofidier contact
+	-Mofidier contact{EN COURS}
 	-Supprimer contact
