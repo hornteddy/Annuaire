@@ -1,0 +1,3 @@
+Projet : (rendu vendredi 30 septembre)
+- Recherche multicritères (nom, prénom, adresse, ...)
+- Type de contacts

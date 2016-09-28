@@ -1,0 +1,39 @@
+Projet web
+
+/!\ Prendre en compte le type du contact /!\
+
+Pages:
+	-Acceuil
+		*Accès aux pages: recherche, liste, ajout.
+		**Liste des contacts les plus récents
+	-Recherche
+		*recherche globale
+		*recherche par champs spécifiques
+	-Resultat de la recherche
+		*liste tout les contacts si la recherrche est vide ou par accès direct
+		*accès a la page du contact selectionné
+		*options possible
+			*accès a la modification d'un contact
+			*suppression d'un contact
+			**suppression de plusieurs contacts en meme temps
+	-Affichage du contact
+	-Ajouter contact
+	-Modifier contact
+	-Supprimer contact
+	-Bonus: gestion login
+	
+Java:
+	-Gestion du XML
+		*Lire l'annuaire
+		*Sauvegarder l'annuaire
+	-Recherche
+		*recherche globale
+		*recherche par champs
+	-Objets métiers:
+		*Contacts->Personne
+				 ->Entreprise
+		*Annuaire
+	-Affichage contact
+	-Ajouter contact
+	-Mofidier contact
+	-Supprimer contact
