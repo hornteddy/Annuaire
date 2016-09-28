@@ -25,7 +25,7 @@ Pages:
 Java:
 	-Gestion du XML
 		*Lire l'annuaire
-		*Sauvegarder l'annuaire
+		*Sauvegarder l'annuaire{FAIT, A TESTER}
 	-Recherche{FAIT, A TESTER}
 		*recherche globale{FAIT, A TESTER}
 		*recherche par champs{FAIT, A TESTER}
